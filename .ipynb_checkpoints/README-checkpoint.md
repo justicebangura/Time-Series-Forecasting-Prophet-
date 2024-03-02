@@ -1,14 +1,12 @@
-# Module-11-challenge
+# MercadoLibre Growth Analysis
 
 [![Forecasting Methods](https://www.marketing91.com/wp-content/uploads/2010/07/Forecasting-methods.jpg)](https://www.marketing91.com/wp-content/uploads/2010/07/Forecasting-methods.jpg)
 
-# MercadoLibre Growth Analysis
-
-As a growth analyst at MercadoLibre, the leading e-commerce platform in Latin America with over 200 million users, my role involves analyzing financial and user data to drive company growth. I aim to leverage clever strategies to unlock new opportunities and improve overall performance.
+I acted as a growth analyst at MercadoLibre, the leading e-commerce platform in Latin America with over 200 million users, my role for this Homework involves analyzing financial and user data to drive company growth. I aim to leverage clever strategies to unlock new opportunities and improve overall performance.
 
 ## Installation and Setup
 
-I have installed and imported all the necessary libraries and dependencies required for data analysis and forecasting.
+I have installed and imported all the necessary libraries and dependencies required for data analysis and forecasting time series.
 
 ## Key Findings
 
