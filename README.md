@@ -1,6 +1,6 @@
 # MercadoLibre Growth Analysis
 
-[![Forecasting Methods](https://theurbantwist.com/wp-content/uploads/2019/04/04042019-financial-analysis.jpg)
+![Forecasting Methods](https://theurbantwist.com/wp-content/uploads/2019/04/04042019-financial-analysis.jpg)
 
 I acted as a growth analyst at MercadoLibre, the leading e-commerce platform in Latin America with over 200 million users, my role for this Homework involves analyzing financial and user data to drive company growth. I aim to leverage clever strategies to unlock new opportunities and improve overall performance.
 
